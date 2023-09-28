@@ -20,4 +20,35 @@ Our ship therefore has necessarily to be designed as an multi-generation ark whi
 - population size: 50 - 5000 humans
   
 As well as the mass needed to sustains that population for the involved timescales:
-- minimal mass of 100.000t - 1.000.000t  
+- minimal mass of 100.000t - >1.000.000t
+
+
+ Content
+ -------
+
+
+This document will contain a detailed description of one specific design and it will include considerations regarding:
+- propulsion system
+- artifical gravity
+- food, water and air sustainability
+- habitation and psychology
+- ecology
+- political model
+- economic model
+- genetic variability
+- genetic modifications
+- education
+- sociology and cultural implications
+
+under /tools will be a variety of python scripts to calculate ship characteristics based on different constraints and assumptions.
+
+under /model will be a 3D model of the final design
+
+Propulsion System
+=================
+
+
+
+Artificial Gravity
+==================
+
