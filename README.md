@@ -20,7 +20,7 @@ Our ship therefore has necessarily to be designed as an multi-generation ark whi
 - population size: 50 - 5000 humans
   
 As well as the mass needed to sustains that population for the involved timescales:
-- minimal mass of 100.000t - >1.000.000t
+- minimal mass of 100.000t - >1.000.000t (1 to >10 aircraft carriers)
 
 
  Content
@@ -28,6 +28,8 @@ As well as the mass needed to sustains that population for the involved timescal
 
 
 This document will contain a detailed description of one specific design and it will include considerations regarding:
+- potential target systems
+- colonisation in target system
 - propulsion system
 - artifical gravity
 - food, water and air sustainability
@@ -52,3 +54,13 @@ Propulsion System
 Artificial Gravity
 ==================
 
+Genetic Moifications
+====================
+
+One of the primary obstacles when talking about interstellar (or even interplanetary) flight is radiation shielding.
+We propose that the crew a(and its descendands) as well as all higher lifeforms on bord will be genetically modified to sport enhanced DNA-Repair mechanisms. 
+
+While we those modifications are a necessity we can also consider a range of further modifications:
+- the ability to produce Vitamin C was lost for primates, while there shuld be enough Vitamin C available during flight time and aditional safety net would be to 'fix' this potential problem.
+- there is ony neglegible selection pressure for ailments of old age: we do know that some individuals keep physically and mentally fit into old age, while the abilitys of other diminish repidly. Its almost certain that there is a genetic component to it.
+- In habitats of small size (Islands, Mountains) we observe both Island-Gigantism as well as dwarfism. By iartificially introducing dwarfism we can reduce the amount of ressources needed per person/lifeform and allow for larger populations.  
