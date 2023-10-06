@@ -78,4 +78,6 @@ Much of the required plumbing could be reduced if the inhabitants use comunal wa
 
 Even more important might be cooking areas: individual stoves are always a fire hazard, even if all cooking is done using induction fields. Every year xxxx homes burn down due to overheating of oil. This risk could be greatly reduced if any heating device capable of heating anything to more than 60 C is restricted to special fire resistant buildings. 
 
+Infact outside of fabrication and specially secured areas the whole electric grid might be restricted to a 24V system. 
+
 Culturally this might seem strange to the modern eye, however we should remember that outhouses used to be a common thing, shared bathrooms per etage used to be standard in many cities until xxxxx, and comunal bathrooms and toilets were a fact of living in ancient civilizations. In many villages it is still common to have a shared baking-house.
